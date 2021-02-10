@@ -1,2 +1,2 @@
 # My GitHub profile
-https://github.com/poghosyantatevik
+[I'm an inline-style link](https://github.com/poghosyantatevik)
